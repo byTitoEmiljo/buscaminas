@@ -20,7 +20,7 @@ Este proyecto es una implementación del clásico juego de Buscaminas en Python,
 5. Instala las dependencias necesarias (solo `numpy` ya que `tkinter` viene con Python): \
    `pip install numpy`
 7. Ejecuta el script: \
-   `python main.py`
+   `python buscaminas.py`
    
 ### Uso
 1. Al iniciar el programa, ingresa el tamaño del tablero (por ejemplo, 16 para un tablero 4x4) y la cantidad de bombas.
